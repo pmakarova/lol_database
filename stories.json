@@ -1,0 +1,992 @@
+[
+    {
+        "champion": "Aatrox",
+        "title": "the Darkin Blade",
+        "text": "Whether mistaken for a demon or god, many tales have been told of the Darkin Blade... but few know his real name, or the story of his fall.\nIn ancient times, long before desert sands swallowed the emp",
+        "length": 4073
+    },
+    {
+        "champion": "Ahri",
+        "title": "the Nine-Tailed Fox",
+        "text": "For most of her life, Ahri's origins were a mystery to her, the history of her vastayan tribe all but lost save for the twin gemstones she has carried her entire life.\nAhri's earliest memories are of ",
+        "length": 4303
+    },
+    {
+        "champion": "Akali",
+        "title": "the Rogue Assassin",
+        "text": "Ionia has always been a land of wild magic, its vibrant people and powerful spirits seeking to live in harmony\u2026 but sometimes this peaceful equilibrium does not come easily. Sometimes it needs to be k",
+        "length": 3653
+    },
+    {
+        "champion": "Akshan",
+        "title": "the Rogue Sentinel",
+        "text": "Dashing through the shadows of eastern Shurima, a righteous avenger stalks those who have harmed others. His punishment is swift, certain, and exacted by a curious weapon that rights the wrongs of his",
+        "length": 4717
+    },
+    {
+        "champion": "Alistar",
+        "title": "the Minotaur",
+        "text": "Many civilizations have resisted Noxus, but none as long as the clans of the Great Barrier mountains. Though these fierce minotaurs had protected the overland trade routes to the ancient city of Zaun ",
+        "length": 4468
+    },
+    {
+        "champion": "Ambessa",
+        "title": "the Matriarch of War",
+        "text": "Born into one of the most powerful families in modern Noxus, Ambessa Medarda was perhaps always destined for greatness. Her family was not counted among the old noble houses, yet they had gained immen",
+        "length": 3594
+    },
+    {
+        "champion": "Amumu",
+        "title": "the Sad Mummy",
+        "text": "A lonely and melancholy soul from ancient Shurima, Amumu roams the world in search of a friend. Cursed by an ancient spell, he is doomed to remain alone forever, as his touch is death and his affectio",
+        "length": 4436
+    },
+    {
+        "champion": "Anivia",
+        "title": "the Cryophoenix",
+        "text": "Anivia is an ancient Freljordian demi-god who represents the eternal cycle of life, death, and rebirth, intrinsically associated with the changing seasons. To those who venerate her, she is the elemen",
+        "length": 4366
+    },
+    {
+        "champion": "Annie",
+        "title": "the Dark Child",
+        "text": "Boram Darkwill\u2019s last years on the throne were a time of great uncertainty for Noxus, and many with an aptitude for magic left the capital for the relative peace of more distant provinces. Gregori the",
+        "length": 3512
+    },
+    {
+        "champion": "Aphelios",
+        "title": "the Weapon of the Faithful",
+        "text": "The moon looms over the towering slopes of Mount Targon, distant, yet impossibly close.\nBorn during a rare lunar convergence, when the physical moon was eclipsed by its reflection in the spirit realm,",
+        "length": 4655
+    },
+    {
+        "champion": "Ashe",
+        "title": "the Frost Archer",
+        "text": "Ashe hails from the northern Freljord, where brutal tribal raids and inter-clan warfare are as much a part of the landscape as the scream of the frozen winds, and the unyielding cold of the tundra.\nTh",
+        "length": 4165
+    },
+    {
+        "champion": "AurelionSol",
+        "title": "The Star Forger",
+        "text": "The appearance of a comet in the night sky is often said to portend upheaval and unrest. Under the auspices of such fiery harbingers, new empires rise, old cultures fall, and even the stars themselves",
+        "length": 3932
+    },
+    {
+        "champion": "Aurora",
+        "title": "the Witch between Worlds",
+        "text": "Most mortals live and die knowing only a single plane of reality\u2014the material realm. However, this view reflects just half of existence. Running parallel is the spirit realm, invisible to many and jus",
+        "length": 4696
+    },
+    {
+        "champion": "Azir",
+        "title": "the Emperor of the Sands",
+        "text": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, mi",
+        "length": 11429
+    },
+    {
+        "champion": "Bard",
+        "title": "the Wandering Caretaker",
+        "text": "It is said that most inhabitants of the celestial realm see their home as a wondrous and vivid tapestry, woven with prismatic threads of purest starlight. However, for one prodigious entity, the intan",
+        "length": 3359
+    },
+    {
+        "champion": "Belveth",
+        "title": "the Empress of the Void",
+        "text": "Fascinated by the world of existence and eager to create one for herself, Bel\u2019Veth is like a dark cancer that has metastasized within the heart of the Void, through which all of Runeterra will be cons",
+        "length": 3427
+    },
+    {
+        "champion": "Blitzcrank",
+        "title": "the Great Steam Golem",
+        "text": "Zaun is a place of wondrous experimentation and vibrant, colorful life where anything can be achieved\u2014but not without a cost. For all its boundless creativity, there is also waste, destruction, and su",
+        "length": 3937
+    },
+    {
+        "champion": "Brand",
+        "title": "the Burning Vengeance",
+        "text": "The son of a Freljordian healer, Kegan Rodhe was born an outsider. The little magic and herbcraft his mother possessed allowed them both to survive on the fringes of a small coastal community named Ry",
+        "length": 3046
+    },
+    {
+        "champion": "Braum",
+        "title": "the Heart of the Freljord",
+        "text": "Even as a child, Braum was much larger than other Freljordian youngsters, but his mother taught him never to use his size to intimidate or bully. She came from a proud line of herders, and believed tr",
+        "length": 4316
+    },
+    {
+        "champion": "Briar",
+        "title": "the Restrained Hunger",
+        "text": "Near the end of his reign, Grand General Boram Darkwill entrusted the Black Rose and its many hemomancers with creating a new kind of living weapon. Unlike their previous experiments on the deceased, ",
+        "length": 3479
+    },
+    {
+        "champion": "Caitlyn",
+        "title": "the Sheriff of Piltover",
+        "text": "Born into a wealthy and influential merchant clan, Caitlyn Kiramman swiftly learned the social graces of life in Piltover, but preferred to spend her time in the wilder lands outside it. Equally adept",
+        "length": 3876
+    },
+    {
+        "champion": "Camille",
+        "title": "the Steel Shadow",
+        "text": "Clan Ferros understands sacrifice.\nMost of the family\u2019s wealth came through harvesting a rare crystal from the brackern, a creature native to Shurima. These hex-crystals\u2014or \u201cfirst crystals\u201d\u2014contained ",
+        "length": 4964
+    },
+    {
+        "champion": "Cassiopeia",
+        "title": "the Serpent's Embrace",
+        "text": "The youngest child of General Du Couteau, Cassiopeia was born to a life of possibility and privilege among the Noxian noble houses. From an early age, she displayed a keen mind and sharp wit, and whil",
+        "length": 4573
+    },
+    {
+        "champion": "Chogath",
+        "title": "the Terror of the Void",
+        "text": "There is a place between dimensions, between worlds. To some it is known as the Outside, to others it is the Unknown. To those that truly know, however, it is called the Void. Despite its name, the Vo",
+        "length": 1386
+    },
+    {
+        "champion": "Corki",
+        "title": "the Daring Bombardier",
+        "text": "When Heimerdinger and his yordle colleagues migrated to Piltover, they embraced science as a way of life, and they immediately made several groundbreaking contributions to the techmaturgical community",
+        "length": 1626
+    },
+    {
+        "champion": "Darius",
+        "title": "the Hand of Noxus",
+        "text": "Darius and his brother Draven grew up as orphans in the port city of Basilich. Darius struggled to provide for them both, constantly fighting with gangs of older urchins and anyone else who threatened",
+        "length": 3631
+    },
+    {
+        "champion": "Diana",
+        "title": "Scorn of the Moon",
+        "text": "Diana did not belong on Mount Targon. A group of Solari hunters discovered her swaddled between her frost-claimed parents\u2014strangers to this land, who had clearly traveled a long way. The hunters broug",
+        "length": 4593
+    },
+    {
+        "champion": "DrMundo",
+        "title": "the Madman of Zaun",
+        "text": "In the wards of Zaun\u2019s infamous asylum, a single monstrous figure roams the halls. His methods are bold, his bonesaw is sharp, and his patients are terrified. For this man is no doctor at all, except ",
+        "length": 4040
+    },
+    {
+        "champion": "Draven",
+        "title": "the Glorious Executioner",
+        "text": "Even as an orphan on the streets of Basilich, Draven was headstrong and full of bravado, frequently getting into vicious brawls with older street children and shady underworld thugs. While supremely c",
+        "length": 4431
+    },
+    {
+        "champion": "Ekko",
+        "title": "the Boy Who Shattered Time",
+        "text": "Born with genius-level intellect, Ekko constructed simple machines before he could crawl. His parents, Inna and Wyeth, vowed to provide a good future for their son\u2014Zaun, with all its pollution and cri",
+        "length": 4746
+    },
+    {
+        "champion": "Elise",
+        "title": "the Spider Queen",
+        "text": "The Lady Elise was born centuries ago to House Kythera, one of the oldest bloodlines of Noxus, and swiftly learned the power of beauty to influence the weak.\nWhen she came of age, she entertained the ",
+        "length": 4609
+    },
+    {
+        "champion": "Evelynn",
+        "title": "Agony's Embrace",
+        "text": "Within the dark seams of Runeterra, the demon Evelynn searches for her next victim. She lures in prey with the voluptuous fa\u00e7ade of a human female, but once a person succumbs to her charms, Evelynn\u2019s ",
+        "length": 3293
+    },
+    {
+        "champion": "Ezreal",
+        "title": "the Prodigal Explorer",
+        "text": "Born and raised in a wealthy neighborhood of Piltover, Ezreal was always a curious child. His parents were renowned archaeologists, so he became used to their long absences from the family home, often",
+        "length": 4767
+    },
+    {
+        "champion": "Fiddlesticks",
+        "title": "the Ancient Fear",
+        "text": "Long, long ago, in a tower by the edge of the sea, a foolish young mage summoned something into the world that he was not prepared to control. What stepped before the boy was something older than reco",
+        "length": 3124
+    },
+    {
+        "champion": "Fiora",
+        "title": "the Grand Duelist",
+        "text": "As the youngest daughter of the noble Laurent family, Fiora seemed destined for a life as a political pawn, to be married off in Demacia\u2019s grand game of alliances. This did not sit well, and from an e",
+        "length": 4031
+    },
+    {
+        "champion": "Fizz",
+        "title": "the Tidal Trickster",
+        "text": "In ages past, the oceans of Runeterra were home to civilizations far older than those of the land. In the depths of what is now the Guardian\u2019s Sea, a great city once stood\u2014it was here that the yordle ",
+        "length": 3333
+    },
+    {
+        "champion": "Galio",
+        "title": "the Colossus",
+        "text": "Galio\u2019s legend begins in the aftermath of the Rune Wars, when countless refugees fled from the destructive power of magic. In the west of Valoran, a band of these displaced people were hounded by a vi",
+        "length": 5185
+    },
+    {
+        "champion": "Gangplank",
+        "title": "the Saltwater Scourge",
+        "text": "As unpredictable as he is brutal, the dethroned reaver king known as Gangplank is feared far and wide. Where he goes, death and ruin follow, and such is his infamy and reputation that the merest sight",
+        "length": 1816
+    },
+    {
+        "champion": "Garen",
+        "title": "The Might of Demacia",
+        "text": "Born into the noble Crownguard family, along with his younger sister Lux, Garen knew from an early age that he would be expected to defend the throne of Demacia with his life. His father, Pieter, was ",
+        "length": 4292
+    },
+    {
+        "champion": "Gnar",
+        "title": "the Missing Link",
+        "text": "Before the ice had given the Freljord its name, there existed a land brimming with wonder\u2014that is, if one could see the world through the eyes of Gnar.\nA young yordle with boundless energy, Gnar and o",
+        "length": 3933
+    },
+    {
+        "champion": "Graves",
+        "title": "the Outlaw",
+        "text": "Raised in the wharf alleys of Bilgewater, Malcolm Graves quickly learned how to fight and how to steal, skills that would serve him very well in all the years ahead. He could always find work hauling ",
+        "length": 4120
+    },
+    {
+        "champion": "Gwen",
+        "title": "the Hallowed Seamstress",
+        "text": "Within the long-lost kingdom of Camavor, there once lived a village of people far from the throne. It was here, in the rural colonies, where a humble seamstress made her beloved doll, Gwen.\nWhat Gwen ",
+        "length": 4088
+    },
+    {
+        "champion": "Hecarim",
+        "title": "the Shadow of War",
+        "text": "Born into an empire long since gone to dust and forgotten, Hecarim was a lieutenant of the Iron Order\u2014a brotherhood sworn to defend their king\u2019s lands.\nAs Hecarim won victory after victory from the ba",
+        "length": 4181
+    },
+    {
+        "champion": "Heimerdinger",
+        "title": "the Revered Inventor",
+        "text": "A brilliant yet eccentric yordle scientist, Professor Cecil B. Heimerdinger is lauded as one of the most innovative minds and esteemed inventors Piltover has ever seen. Relentless in his work to the p",
+        "length": 579
+    },
+    {
+        "champion": "Hwei",
+        "title": "the Visionary",
+        "text": "In northwest Ionia, the island of Koyehn once stood beautiful and serene. Among its golden sands, seasonal bazaar, and quaint mill town sat the Temple of Koyehn, an ancient and renowned conservatory f",
+        "length": 5422
+    },
+    {
+        "champion": "Illaoi",
+        "title": "the Kraken Priestess",
+        "text": "Illaoi\u2019s powerful physique is dwarfed only by her indomitable faith. As the prophet of the Great Kraken, she uses a huge, golden idol to rip her foes\u2019 spirits from their bodies and shatter their perce",
+        "length": 4297
+    },
+    {
+        "champion": "Irelia",
+        "title": "the Blade Dancer",
+        "text": "Even as a small child, Xan Irelia was fascinated by the grace and beauty of human movement. Under her grandmother\u2019s tutelage, she learned the traditional silk dances of her province\u2014though she was dub",
+        "length": 4359
+    },
+    {
+        "champion": "Ivern",
+        "title": "the Green Father",
+        "text": "Ivern the Cruel was renowned as a fierce warrior, in the latter days of the ancient Vorrijaard. His clan followed the most warlike of the old gods, and would not kneel before the upstart \u201cThree Sister",
+        "length": 4459
+    },
+    {
+        "champion": "Janna",
+        "title": "the Storm's Fury",
+        "text": "Since ancient times, there have been those who prayed to the winds. From sailors seeking good weather to the downtrodden calling on winds of change, mortals have placed their hope in the tempests and ",
+        "length": 3982
+    },
+    {
+        "champion": "JarvanIV",
+        "title": "the Exemplar of Demacia",
+        "text": "Soon after King Jarvan III\u2019s coronation, he addressed the people of Demacia. Even though there were still many foes beyond the borders of their proud kingdom, several of the noble families had begun t",
+        "length": 6409
+    },
+    {
+        "champion": "Jax",
+        "title": "Grandmaster at Arms",
+        "text": "Saijax Cail-Rynx Icath\u2019un grew up in Icathia, a satrapy of the Shuriman empire. Ever since he was a boy, his father told him of when their home was a proud, independent nation, before it was ground un",
+        "length": 4265
+    },
+    {
+        "champion": "Jayce",
+        "title": "the Defender of Tomorrow",
+        "text": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage",
+        "length": 11547
+    },
+    {
+        "champion": "Jhin",
+        "title": "the Virtuoso",
+        "text": "One can travel to nearly any village across Ionia and hear the tale of the Capture of the Golden Demon. Depicted in a variety of plays and epic poems, the cruel spirit\u2019s banishment is still celebrated",
+        "length": 4904
+    },
+    {
+        "champion": "Jinx",
+        "title": "the Loose Cannon",
+        "text": "While most look at Jinx and see only a mad woman wielding an array of dangerous weapons, a few remember her as arelativelyinnocent girl from Zaun\u2014a tinkerer with big ideas who never quite fit in. No o",
+        "length": 3812
+    },
+    {
+        "champion": "KSante",
+        "title": "the Pride of Nazumah",
+        "text": "K\u2019Sante grew up immersed in his homeland\u2019s history. At dinner, his father told tales of their ancestors who used bravery and strength to resist the tyranny of the Ascended. His mother recounted the fe",
+        "length": 7355
+    },
+    {
+        "champion": "Kaisa",
+        "title": "Daughter of the Void",
+        "text": "Perhaps the most remarkable thing about the fearless hunter of the Void known as Kai\u2019Sa is how unremarkably her life began. She did not descend from tribal warriors hardened by generations of battle, ",
+        "length": 3762
+    },
+    {
+        "champion": "Kalista",
+        "title": "the Spear of Vengeance",
+        "text": "In life, Kalista was a proud general, niece to the king of an empire that none now recall. She lived by a strict code of honor, serving the throne with utmost loyalty. The king had many enemies, and w",
+        "length": 3938
+    },
+    {
+        "champion": "Karma",
+        "title": "the Enlightened One",
+        "text": "Karma is the living embodiment of an ancient Ionian soul, who serves as a spiritual beacon to each generation of her people. Her most recent incarnation came in the form of a 12-year-old girl named Da",
+        "length": 4060
+    },
+    {
+        "champion": "Karthus",
+        "title": "the Deathsinger",
+        "text": "The harbinger of oblivion, Karthus is an undying specter whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only ",
+        "length": 6351
+    },
+    {
+        "champion": "Kassadin",
+        "title": "the Void Walker",
+        "text": "Kassadin started life as a lowly offcast, walking the harsh sands of the Great Sai alongside merchant caravans to draw predators away from their more valuable goods. He survived many of these treks ac",
+        "length": 3825
+    },
+    {
+        "champion": "Katarina",
+        "title": "the Sinister Blade",
+        "text": "Born to one of the most respected noble families of Noxus, Katarina Du Couteau found herself elevated above others from an early age. While her younger sister Cassiopeia took after their politically b",
+        "length": 3731
+    },
+    {
+        "champion": "Kayle",
+        "title": "The Righteous",
+        "text": "As the Rune Wars raged, Mount Targon stood as a beacon against the oncoming darkness\u2014Kayle and her twin sister Morgana were born beneath that light. Their parents, Mihira and Kilam, began the perilous",
+        "length": 4365
+    },
+    {
+        "champion": "Kayn",
+        "title": "the Shadow Reaper",
+        "text": "Noxian by birth, Shieda Kayn and others like him were conscripted as child soldiers, a cruel practice employed by only the most devious commanders in Boram Darkwill\u2019s empire. Following the disastrous ",
+        "length": 3225
+    },
+    {
+        "champion": "Kennen",
+        "title": "the Heart of the Tempest",
+        "text": "A riotous domain of constant transformation, Bandle City was no place for a yordle like Kennen. Searching for harmony and balance, he ventured out from the spirit realm millennia ago. He explored the ",
+        "length": 4222
+    },
+    {
+        "champion": "Kindred",
+        "title": "The Eternal Hunters",
+        "text": "Separate, but never parted, Kindred represents the twin essences of death. Lamb\u2019s bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from t",
+        "length": 1986
+    },
+    {
+        "champion": "Kled",
+        "title": "the Cantankerous Cavalier",
+        "text": "Legends of the popular folk hero Kled can be traced back to the founding of Noxus, and perhaps even further still. He is an icon revered by the common soldiery, which is increasingly a cause of concer",
+        "length": 3976
+    },
+    {
+        "champion": "KogMaw",
+        "title": "the Mouth of the Abyss",
+        "text": "When the prophet Malzahar was reborn in Icathia, he was led there by an ominous voice which thereafter anchored itself to his psyche. From within, this voice bestowed upon him terrible purpose, and th",
+        "length": 1795
+    },
+    {
+        "champion": "Leblanc",
+        "title": "the Deceiver",
+        "text": "Matron of the Black Rose, LeBlanc\u2019s identity is as intangible as the whispers that describe her, as ephemeral as the illusions that give her shape. Perhaps it is unknown even to herself, after so many",
+        "length": 3937
+    },
+    {
+        "champion": "LeeSin",
+        "title": "the Blind Monk",
+        "text": "Among the many spirits Ionians revere, none are as storied as that of the dragon. While some believe it embodies ruin, others view it as a symbol of rebirth. Few can say for certain, and fewer still h",
+        "length": 3606
+    },
+    {
+        "champion": "Leona",
+        "title": "the Radiant Dawn",
+        "text": "Among the Rakkor tribes that dwell upon Mount Targon, the sun is sacred, and none venerate it more than the Solari. Children are raised from birth to honor it, and even to shed blood for it, until its",
+        "length": 4635
+    },
+    {
+        "champion": "Lillia",
+        "title": "the Bashful Bloom",
+        "text": "In Ionia, magic is woven into the land. Forests spread vibrantly, and trees often boast nearly as many colors as leaves, touched by the wonders of the spirit realm.\nBut there is one forest, hidden awa",
+        "length": 4309
+    },
+    {
+        "champion": "Lissandra",
+        "title": "the Ice Witch",
+        "text": "In a time long forgotten, before the sands birthed and then swallowed Shurima, beings of old magic freely walked Runeterra. The borders between the mortal realm and what lay beyond it were hotly conte",
+        "length": 4279
+    },
+    {
+        "champion": "Lucian",
+        "title": "the Purifier",
+        "text": "From an early age, Lucian wanted nothing more than to be like his father, Urias, who was a member of the ancient order of the Sentinels of Light. While Lucian remained home in Demacia, Urias ranged fa",
+        "length": 5052
+    },
+    {
+        "champion": "Lulu",
+        "title": "the Fae Sorceress",
+        "text": "Lulu was always a caring and deeply empathetic yordle, who lived as much in her whimsical daydreams as in reality. One day, while wandering the material realm, she came upon what appeared to be a bird",
+        "length": 4647
+    },
+    {
+        "champion": "Lux",
+        "title": "the Lady of Luminosity",
+        "text": "Luxanna\u2014or Lux, as she prefers to be called\u2014grew up in the Demacian city of High Silvermere, along with her older brother Garen. They were born to the prestigious Crownguard family, which had served f",
+        "length": 3807
+    },
+    {
+        "champion": "Malphite",
+        "title": "Shard of the Monolith",
+        "text": "For more than two millennia, Shurima dominated the known world\u2014an empire that reigned over countless peoples without challenge, and without threat.\nUntil the day Icathia fell.\nFrom the moment the Void",
+        "length": 4056
+    },
+    {
+        "champion": "Malzahar",
+        "title": "the Prophet of the Void",
+        "text": "Beneath the glare of the Shuriman sun, there have always been those blessed with the power of foresight. The only son of aging trinket peddlers, Malzahar did not realize his gift until his parents had",
+        "length": 3739
+    },
+    {
+        "champion": "Maokai",
+        "title": "the Twisted Treant",
+        "text": "Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm destroyed his home, surviving undeath only",
+        "length": 5829
+    },
+    {
+        "champion": "MasterYi",
+        "title": "the Wuju Bladesman",
+        "text": "In Ionia\u2019s central province of Bahrl, a mountain settlement once stood, hidden away in its serene beauty. Here, in the village of Wuju, the boy Yi grew up learning the ways of the sword, chasing a dre",
+        "length": 3868
+    },
+    {
+        "champion": "Milio",
+        "title": "the Gentle Flame",
+        "text": "Milio's story began generations ago with his grandmother, Lup\u00e9, and her twin sister, Lun\u00e9\u2014two elemental masters who\n    wove their respective earth and fire axioms together to overcome the Vidalion\u2019s ",
+        "length": 4776
+    },
+    {
+        "champion": "MissFortune",
+        "title": "the Bounty Hunter",
+        "text": "Like most who rise to notoriety in the twisting, salt-crusted labyrinth of Bilgewater, Sarah Fortune has no shortage of blood on her hands\u2026\nBeloved daughter of the renowned gun-dame Abigale Fortune, S",
+        "length": 4859
+    },
+    {
+        "champion": "MonkeyKing",
+        "title": "the Monkey King",
+        "text": "Within Ionia\u2019s magical forests dwells a tribe of vastaya known as the Shimon. A cautious people, they see life as an evolutionary climb to wisdom\u2014upon death, they believe they become stones, returning",
+        "length": 4285
+    },
+    {
+        "champion": "Mordekaiser",
+        "title": "the Iron Revenant",
+        "text": "In a previous epoch, the fierce warlord Sahn-Uzal rampaged across the northern wildlands. Driven by dark faith, he crushed every tribe and settlement in his path, forging an empire in blood and death.",
+        "length": 4406
+    },
+    {
+        "champion": "Morgana",
+        "title": "The Fallen",
+        "text": "Whether through destiny or circumstance, Morgana and her sister were born to a world in conflict. The cataclysmic Rune Wars had ripped through most of Valoran and Shurima, and seemed poised to engulf ",
+        "length": 4776
+    },
+    {
+        "champion": "Naafiri",
+        "title": "the Hound of a Hundred Bites",
+        "text": "In the pitch black Shuriman night, few sounds are as terrifying as the howls of the dune hound. Those who hear their piercing call on the arid wind know to keep a hand on their sword hilt, and their h",
+        "length": 4140
+    },
+    {
+        "champion": "Nami",
+        "title": "the Tidecaller",
+        "text": "A headstrong young vastaya of the seas, Nami uses her mystical Tidecaller staff to reshape the tides and defend her fellow Marai from danger. The first of her kind to leave the ocean and venture onto ",
+        "length": 3724
+    },
+    {
+        "champion": "Nasus",
+        "title": "the Curator of the Sands",
+        "text": "Nasus\u2019 brilliance was recognized long before he was chosen to join the ranks of the Ascended. A voracious student, he memorized and critiqued the greatest works of Shuriman history and philosophy befo",
+        "length": 5931
+    },
+    {
+        "champion": "Nautilus",
+        "title": "the Titan of the Depths",
+        "text": "To understand the legend of Nautilus, one must first know the man\u2014for even the tallest of tavern tales agree, he was indeed a man.\nThough the waves have washed away the name he was born with, most rem",
+        "length": 4125
+    },
+    {
+        "champion": "Neeko",
+        "title": "the Curious Chameleon",
+        "text": "Neeko was born on a remote and largely unknown island, far to the east, where the last members of an ancient vastayan tribe remained isolated from the rest of the world. They were called the Oovi-Kat,",
+        "length": 4487
+    },
+    {
+        "champion": "Nidalee",
+        "title": "the Bestial Huntress",
+        "text": "Far, far from the harsh deserts of the Great Sai, over savanna plains and mountain steppes, lie the great jungles on the border of Ixtal and Shurima. Swathed in mystery, they are home to wild, fantast",
+        "length": 4193
+    },
+    {
+        "champion": "Nilah",
+        "title": "the Joy Unbound",
+        "text": "A confident and joyful woman who always wears an eerie smile, Nilah\u2019s sudden arrival in Bilgewater has sent the city into an uproar. Her duels with rampaging sea serpents defy the limits of human abil",
+        "length": 4932
+    },
+    {
+        "champion": "Nocturne",
+        "title": "the Eternal Nightmare",
+        "text": "The greatest of those horrors has a name, and its name is Nocturne.\nTowards the end of the Rune Wars, desperate for victory, cabals of warrior-mages sought any advantage they could find over their foe",
+        "length": 3114
+    },
+    {
+        "champion": "Nunu",
+        "title": "the Boy and His Yeti",
+        "text": "One of the Notai, a nomadic tribe that long traveled the Freljord, Nunu learned from his mother, Layka, that behind everythingis a story. Together, they gathered tales that Layka turned into songs. Fo",
+        "length": 5699
+    },
+    {
+        "champion": "Orianna",
+        "title": "the Lady of Clockwork",
+        "text": "Nestled among the eclectic storefronts of Piltover sat the workshop of the renowned artificer Corin Reveck. Famous for his masterful craft in artificial limbs, Corin\u2019s intricate brass designs made the",
+        "length": 4599
+    },
+    {
+        "champion": "Ornn",
+        "title": "the Fire Below the Mountain",
+        "text": "Ornn\u2019s name was once spoken throughout the lands that would one day become known as the Freljord. It was widely held that he was the firstborn of the old demi-gods, who had shaped the land itself, and",
+        "length": 3065
+    },
+    {
+        "champion": "Pantheon",
+        "title": "The Unbreakable Spear",
+        "text": "Atreus was born on the hostile slopes of Targon, and named after a star in the constellation of War, known as the Pantheon.\nFrom an early age, he knew he was destined for battle. Like many in his trib",
+        "length": 4647
+    },
+    {
+        "champion": "Poppy",
+        "title": "Keeper of the Hammer",
+        "text": "Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing a hammer twice the length of her body, this determined yordle has spent untold years searching for the \u201cHero ",
+        "length": 5166
+    },
+    {
+        "champion": "Pyke",
+        "title": "the Bloodharbor Ripper",
+        "text": "As a youth, Pyke started out like many in Bilgewater: on the slaughter docks. All day, every day, monstrous creatures of the deep were hauled in for rendering in the butcheries that lined the waterfro",
+        "length": 4177
+    },
+    {
+        "champion": "Qiyana",
+        "title": "The Empress of Elements",
+        "text": "The youngest child in a ruling family, Qiyana grew up believing she would never inherit the high seat of the Yun Tal. As her parents governed Ixaocan, a city-state hidden deep in the jungles of Ixtal,",
+        "length": 4378
+    },
+    {
+        "champion": "Quinn",
+        "title": "Demacia's Wings",
+        "text": "Quinn and her twin brother, Caleb, were born in Uwendale, a remote mountain hamlet in northeastern Demacia. It was a thriving village of hunters and farmers, protected by rangers who patrolled the wil",
+        "length": 4675
+    },
+    {
+        "champion": "Rakan",
+        "title": "the Charmer",
+        "text": "The Lhotlan vastaya once lived on the ancient, mystical borders of Ionia\u2019s deep forests, on the eastern island of Qaelin. It was a place where magic was breathed like air, and time had little meaning.",
+        "length": 4352
+    },
+    {
+        "champion": "Rammus",
+        "title": "the Armordillo",
+        "text": "Idolized by many, dismissed by some, mystifying to all, the curious being, Rammus, is an enigma. Protected by a spiked shell, Rammus inspires increasingly disparate theories on his origin wherever he ",
+        "length": 5157
+    },
+    {
+        "champion": "RekSai",
+        "title": "the Void Burrower",
+        "text": "The largest and fiercest of her species, Rek'Sai is a merciless predator that tunnels through the earth to ambush and devour her prey. Her insatiable hunger has laid waste to entire regions of the onc",
+        "length": 575
+    },
+    {
+        "champion": "Rell",
+        "title": "the Iron Maiden",
+        "text": "Posters across Noxus warn of a dangerous criminal, armed with a massive, blunted spear and borne atop a magical fiend, whose mere existence poses a threat to the safety and security of the entire nati",
+        "length": 4829
+    },
+    {
+        "champion": "Renekton",
+        "title": "the Butcher of the Sands",
+        "text": "Renekton was born to fight. From a young age, it was obvious he had no fear, regularly brawling with much older children. It was usually his pride that led to these confrontations\u2014Renekton was unable ",
+        "length": 6000
+    },
+    {
+        "champion": "Rengar",
+        "title": "the Pridestalker",
+        "text": "Rengar hails from a tribe of Shuriman vastaya known as the Kiilash, whose society venerated the honor and glory of the hunt. Rengar was born the runt of the litter to the tribe's chieftain, Ponjaf. Po",
+        "length": 3403
+    },
+    {
+        "champion": "Riven",
+        "title": "the Exile",
+        "text": "Built on perpetual conflict, Noxus has never had a shortage of war orphans. Her father lost to an unnamed battle and her mother to the girl\u2019s own stubborn birth, Riven was raised on a farm run by the ",
+        "length": 4291
+    },
+    {
+        "champion": "Rumble",
+        "title": "the Mechanized Menace",
+        "text": "Even amongst yordles, Rumble was always the runt of the litter. As such, he was used to being bullied. In order to survive, he had to be scrappier and more resourceful than his peers. He developed a q",
+        "length": 1723
+    },
+    {
+        "champion": "Ryze",
+        "title": "the Rune Mage",
+        "text": "Ryze was just a young apprentice when he first learned of the arcane powers that had shaped the world.\nHis master, a sorcerer named Tyrus of Helia, was a member of an ancient order whose mission had b",
+        "length": 4770
+    },
+    {
+        "champion": "Samira",
+        "title": "the Desert Rose",
+        "text": "In the city of Amakra, on the eastern edge of the Great Sai, Samira and her parents made a living as street performers. They dazzled, beguiled, and awed onlookers, which thrilled Samira, but worried h",
+        "length": 4524
+    },
+    {
+        "champion": "Sejuani",
+        "title": "the Winter's Wrath",
+        "text": "Sejuani was the child of a Freljordian political marriage that ended as coldly as it began. Her mother, the Iceborn warrior Kalkia of the Winter\u2019s Claw, abandoned her new family to pursue the man who ",
+        "length": 3775
+    },
+    {
+        "champion": "Senna",
+        "title": "the Redeemer",
+        "text": "Senna\u2019s journey to become a Sentinel of Light started with darkness. It started with the Black Mist\u2026\nSenna first encountered the Mist at an early age, when wreckage from a distant Harrowing washed ont",
+        "length": 4945
+    },
+    {
+        "champion": "Seraphine",
+        "title": "the Starry-Eyed Songstress",
+        "text": "In Piltover, where anyone\u2019s dream can become everyone\u2019s progress, a star is born.\nAs a child, Seraphine always loved music, especially her father\u2019s lullabies. The songs were beautiful, but sad. He\u2019d b",
+        "length": 4477
+    },
+    {
+        "champion": "Sett",
+        "title": "the Boss",
+        "text": "Though now a powerful player in Ionia\u2019s flourishing criminal underworld, Sett had humble origins. Born from an Ionian vastaya and a Noxian human, the \u201chalf-beast\u201d child was an outcast from the start. ",
+        "length": 4233
+    },
+    {
+        "champion": "Shaco",
+        "title": "the Demon Jester",
+        "text": "Most would say that death isn't funny. It isn't, unless you're Shaco - then it's hysterical. He is Valoran's first fully functioning homicidal comic; he jests until someone dies, and then he laughs. T",
+        "length": 1222
+    },
+    {
+        "champion": "Shen",
+        "title": "the Eye of Twilight",
+        "text": "An enigma to the spirit realm, as well as the mortal world, Shen belongs to neither. Although born to one of the most revered families of northern Navori, it was his father\u2019s role as the Eye of Twilig",
+        "length": 3960
+    },
+    {
+        "champion": "Shyvana",
+        "title": "the Half-Dragon",
+        "text": "Though they are rare creatures now indeed, there exist a handful of places across Runeterra where the great elemental dragons still nest.\nLong after the fall of the Shuriman empire, in the chambers be",
+        "length": 4847
+    },
+    {
+        "champion": "Singed",
+        "title": "the Mad Chemist",
+        "text": "The twisted, unfathomable madman known across Runeterra as Singed began his life as an ordinary man in Piltover. As a child, he displayed a prodigious intellect and a boundless sense of curiosity. The",
+        "length": 4170
+    },
+    {
+        "champion": "Sion",
+        "title": "the Undead Juggernaut",
+        "text": "Over a century past, the brutal warlord Sion rose to prominence, slaughtering all who dared stand in his way. Greatly feared by friend and foe alike, he was the last of a proud warrior culture that ha",
+        "length": 4949
+    },
+    {
+        "champion": "Sivir",
+        "title": "the Battle Mistress",
+        "text": "From an early age, Sivir learned firsthand the harsh lessons of Shuriman desert life. With her entire family slain by marauding Kthaons\u2014one of the Great Sai\u2019s most infamous raider tribes\u2014the young gir",
+        "length": 5014
+    },
+    {
+        "champion": "Skarner",
+        "title": "the Primordial Sovereign",
+        "text": "AllIxtali grow up hearing the name Skarner, the ancient protector of Ixtal\u2014the brackern who shaped the earth itself and built the first arcologies. His visage is painted in reliefs and immortalized in",
+        "length": 5097
+    },
+    {
+        "champion": "Smolder",
+        "title": "the Fiery Fledgling",
+        "text": "Long before the lands that would become Camavor were named, dragons dwelt there.\nOnce mortals arrived, conflict followed. The strife was only quelled when the first king of Camavor humbled himself bef",
+        "length": 3963
+    },
+    {
+        "champion": "Sona",
+        "title": "Maven of the Strings",
+        "text": "Sona\u2019s earliest memories are of the Ionian monastery where she was raised, in the province of Galrin. The monks, along with kindhearted volunteers from the local villages, took in any orphans or found",
+        "length": 4460
+    },
+    {
+        "champion": "Soraka",
+        "title": "the Starchild",
+        "text": "An age ago, when time itself was young, the inhabitants of the celestial realm regarded the fledgling races of Runeterra with growing concern.\nThese creatures deviated wildly, unpredictably, and dange",
+        "length": 3972
+    },
+    {
+        "champion": "Swain",
+        "title": "the Noxian Grand General",
+        "text": "Born into a patrician family, one of many to exist since the first walls were raised around Noxus, Jericho Swain seemed destined for a life of privilege. The noble houses had played a key role in Bora",
+        "length": 4063
+    },
+    {
+        "champion": "Sylas",
+        "title": "the Unshackled",
+        "text": "As a mage born to a poor Demacian family, Sylas of Dregbourne was perhaps doomed from the start. Despite their low social standing, his parents were firm believers in their country\u2019s ideals. So, when ",
+        "length": 4423
+    },
+    {
+        "champion": "Syndra",
+        "title": "the Dark Sovereign",
+        "text": "As a young child of Navori, Syndra was prone to distraction. She would often get lost in the magical beauty of a pond eclipsed in shadow, or a trail of sugarbeetles climbing the wall. Whenever her cho",
+        "length": 4225
+    },
+    {
+        "champion": "TahmKench",
+        "title": "the River King",
+        "text": "The waterways of Valoran are old, but far older still is the demon Tahm Kench. From muddy gambling tents along the Serpentine River, through the salt-crusted dice halls of Bilgewater, to the gilded wa",
+        "length": 3849
+    },
+    {
+        "champion": "Taliyah",
+        "title": "the Stoneweaver",
+        "text": "Taliyah is a nomadic mage from Shurima who weaves stone with energetic enthusiasm and raw determination. Torn between teenage wonder and adult responsibility, she has crossed nearly all of Valoran on ",
+        "length": 9515
+    },
+    {
+        "champion": "Talon",
+        "title": "the Blade's Shadow",
+        "text": "Talon's earliest memories are the darkness of Noxus' underground passages and the reassuring steel of a blade. He remembers no family, warmth, or kindness. Instead, the clink of stolen gold and the se",
+        "length": 1646
+    },
+    {
+        "champion": "Taric",
+        "title": "the Shield of Valoran",
+        "text": "For the noble defenders of Demacia, daily life is the very model of focused, selfless dedication to the ideals of king and country. Called upon to continue his family\u2019s long tradition of military serv",
+        "length": 4530
+    },
+    {
+        "champion": "Teemo",
+        "title": "the Swift Scout",
+        "text": "On my honor as a scout, I will strive:\nTo help every living thing thrive\nTo be a friend to all in need\nTo seek out every rock and tree\nTo be honest and kind and brave and true\nTo try my best in all I ",
+        "length": 2626
+    },
+    {
+        "champion": "Thresh",
+        "title": "the Chain Warden",
+        "text": "The horrifying specter now known as Thresh was once a simple, if troubled, man. In an age history has all but forgotten, he was a lowly warden of an order devoted to the gathering and protection of ar",
+        "length": 4607
+    },
+    {
+        "champion": "Tristana",
+        "title": "the Yordle Gunner",
+        "text": "Like most yordles, Tristana was always fascinated by the world beyond Bandle City. She traveled far and wide, full of wonder and enthusiasm for the varied places, people, and creatures she encountered",
+        "length": 3889
+    },
+    {
+        "champion": "Trundle",
+        "title": "the Troll King",
+        "text": "Trolls are, for the most part, hulking and brutish creatures, found in many of Runeterra\u2019s least hospitable environments. Though not invulnerable, they are blessed with a hardy constitution and the ab",
+        "length": 3914
+    },
+    {
+        "champion": "Tryndamere",
+        "title": "the Barbarian King",
+        "text": "Tryndamere came into the world knowing only the harshness of survival, for the frozen steppes where his clan made their home never truly thawed. Though they praised all the Freljord\u2019s old gods, as wel",
+        "length": 4416
+    },
+    {
+        "champion": "TwistedFate",
+        "title": "the Card Master",
+        "text": "Born to the nomadic river folk of the Serpentine Delta, the boy Tobias Felix quickly learned what it was to be an outsider. Tolerated for the exotic goods they peddled, but shunned for their strange t",
+        "length": 4283
+    },
+    {
+        "champion": "Twitch",
+        "title": "the Plague Rat",
+        "text": "A plague rat by birth, a connoisseur of filth by passion, Twitch is a paranoid and mutated rat that walks upright and roots through the dregs of Zaun for treasures only he truly values. Armed with a c",
+        "length": 416
+    },
+    {
+        "champion": "Udyr",
+        "title": "the Spirit Walker",
+        "text": "Whenever the moon rises into a wintery sky, round and red as blood, the spirit walkers of the Freljord know that another of their kind has been born into the world. One attuned to the wilds and the la",
+        "length": 7371
+    },
+    {
+        "champion": "Urgot",
+        "title": "the Dreadnought",
+        "text": "Urgot always believed he was worthy.\nAs a headsman, an executioner of the weak, he was a living embodiment of the Noxian ideal that strength should rule, making it a reality with every swing of his ax",
+        "length": 4098
+    },
+    {
+        "champion": "Varus",
+        "title": "the Arrow of Retribution",
+        "text": "Regardless of what he would later become, Varus was once a paragon of loyalty and honor. A skilled archer of the ancient Shuriman empire, he was appointed as a temple warden in the eastern states, and",
+        "length": 4119
+    },
+    {
+        "champion": "Vayne",
+        "title": "the Night Hunter",
+        "text": "Shauna Vayne is a deadly, remorseless monster hunter who has pledged her life to finding and killing the demon who murdered her family. Armed with her wrist-mounted crossbows and a heart full of venge",
+        "length": 8791
+    },
+    {
+        "champion": "Veigar",
+        "title": "the Tiny Master of Evil",
+        "text": "For most of the peoples of Runeterra, yordles are not typically something to be feared. Their fabled home of Bandle City is said to be a mysterious, spiritual place, filled with odd trinkets and keeps",
+        "length": 4469
+    },
+    {
+        "champion": "Velkoz",
+        "title": "the Eye of the Void",
+        "text": "To truly understand the horror that is Vel\u2019Koz, one must first know of the Watchers, and how they were blinded to the mortal realm.\nBeyond the material plane, outside and somehowbelowit, lies the unkn",
+        "length": 3466
+    },
+    {
+        "champion": "Vex",
+        "title": "the Gloomist",
+        "text": "In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of malaise and a powerful shadow in tow, Vex shields herself",
+        "length": 3817
+    },
+    {
+        "champion": "Vi",
+        "title": "the Piltover Enforcer",
+        "text": "Vi remembers little of her childhood in Zaun, and what she does remember, she wishes she didn\u2019t. Running with the sump-snipe gangs, she quickly learned to use her wits, as well as her fists, to surviv",
+        "length": 3870
+    },
+    {
+        "champion": "Viego",
+        "title": "the Ruined King",
+        "text": "Few know of the kingdom to the east, far across the seas, whose name lies all but forgotten among the ruins that dot its shores. Fewer still know of its foolish young ruler, whose lovestruck heart was",
+        "length": 4044
+    },
+    {
+        "champion": "Viktor",
+        "title": "Herald of the Arcane",
+        "text": "To understand the full impact of hextech, and the legacy it has left behind in our world, one must first understand the minds behind it.\nWhile much is known and written about Jayce Talis\u2014the vaunted \u201c",
+        "length": 5764
+    },
+    {
+        "champion": "Vladimir",
+        "title": "the Crimson Reaper",
+        "text": "A master of ancient, forbidden sorcery, Vladimir is among the oldest enigmas of Noxus. He was present at the dawn of the empire, and has since woven his influence deep into its foundations\u2026 but he rem",
+        "length": 4610
+    },
+    {
+        "champion": "Volibear",
+        "title": "the Relentless Storm",
+        "text": "To some, he is the Thunder\u2019s Roar, the Greatstorm, or Valhir. To others, he is Ruin, the Thousand-Pierced Bear, or He Who Stands. But to most of the tribes who still hold to the old ways, he is known ",
+        "length": 4084
+    },
+    {
+        "champion": "Warwick",
+        "title": "The Uncaged Wrath of Zaun",
+        "text": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemi",
+        "length": 5640
+    },
+    {
+        "champion": "Xayah",
+        "title": "the Rebel",
+        "text": "As a child of the Lhotlan tribe, Xayah loved listening to her father sing folk-hymns about ancient vastayan heroes. The haunting melodies transported her to a long-forgotten time, when magic danced fr",
+        "length": 4710
+    },
+    {
+        "champion": "Xerath",
+        "title": "the Magus Ascendant",
+        "text": "Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of",
+        "length": 13122
+    },
+    {
+        "champion": "XinZhao",
+        "title": "the Seneschal of Demacia",
+        "text": "Rumored to have never lost in one-on-one combat, Xin Zhao spent much of his life fighting an uphill battle. Some of his earliest memories are of theViscero, an Ionian fishing boat he served aboard off",
+        "length": 4485
+    },
+    {
+        "champion": "Yasuo",
+        "title": "the Unforgiven",
+        "text": "As a child, Yasuo often believed what the others in his village said of him: on the best days, his very existence was an error in judgement; on the worst, he was a mistake that could never be undone.\n",
+        "length": 5199
+    },
+    {
+        "champion": "Yone",
+        "title": "the Unforgotten",
+        "text": "In life, Yone adhered to a strict code of honor and duty. Even as a child, his love for his family led him to assume the mantle of protector, motivated in no small way by the loss of his father. This ",
+        "length": 4338
+    },
+    {
+        "champion": "Yorick",
+        "title": "Shepherd of Souls",
+        "text": "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shriekin",
+        "length": 5273
+    },
+    {
+        "champion": "Yuumi",
+        "title": "the Magical Cat",
+        "text": "In the outlands of Bandle City, there was once a wooded glen where the moon-moths glimmered and the riverbanks overflowed with rainbowfish. In a cottage nestled between the verdant trees lived a yordl",
+        "length": 4172
+    },
+    {
+        "champion": "Zac",
+        "title": "the Secret Weapon",
+        "text": "Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun\u2019s Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinki",
+        "length": 7435
+    },
+    {
+        "champion": "Zed",
+        "title": "the Master of Shadows",
+        "text": "Beneath Ionia\u2019s veil of harmony lie the tales of those left behind. For Zed, his story began as a boy on the cold steps of the home of the Kinkou Order.\nTaken in by Great Master Kusho himself, Zed fou",
+        "length": 3889
+    },
+    {
+        "champion": "Zeri",
+        "title": "the Spark of Zaun",
+        "text": "Raised in a large working-class family, Zeri grew up surrounded by warmth, care, and many strong opinions. They were no strangers to hardship, having lost loved ones to Zaun\u2019s dangers. Even so, their ",
+        "length": 4823
+    },
+    {
+        "champion": "Ziggs",
+        "title": "the Hexplosives Expert",
+        "text": "Ziggs was born with a talent for tinkering, but his chaotic, hyperactive nature was unusual among yordle scientists. Aspiring to be a revered inventor like Heimerdinger, he rattled through ambitious p",
+        "length": 2051
+    },
+    {
+        "champion": "Zilean",
+        "title": "the Chronokeeper",
+        "text": "Icathia, most desolate and cursed of lands, was not always so. Theirs was a rich and diverse civilization, ruled by benevolent Axamuk, last of the Mage Kings of old. As the Shuriman empire expanded ac",
+        "length": 4585
+    },
+    {
+        "champion": "Zoe",
+        "title": "the Aspect of Twilight",
+        "text": "As befits her Targonian Aspect\u2019s nature, Zoe did not come to the attention of the celestial realm in any traditional way. She didn\u2019t win a great victory against overwhelming odds, or sacrifice herself",
+        "length": 4151
+    },
+    {
+        "champion": "Zyra",
+        "title": "Rise of the Thorns",
+        "text": "Zyra\u2019s memory is long, and runs as deep as the roots of the earth. Her kind was young when the Rune Wars raged, when mortal armies fought one another for the very keys of creation.\nHidden in the jungl",
+        "length": 3536
+    }
+]

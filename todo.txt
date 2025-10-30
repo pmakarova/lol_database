@@ -1,0 +1,20 @@
+TABLE - TODO
+summoner - random nicknames
+
+spell - api https://ddragon.leagueoflegends.com/cdn/15.21.1/data/en_US/summoner.json
+
+rarity - list
+
+skin - api https://ddragon.leagueoflegends.com/cdn/15.21.1/data/en_US/champion/Aatrox.json & https://leagueoflegends.fandom.com/wiki/Module:SkinData/data?action=edit
+
+ability - api https://ddragon.leagueoflegends.com/cdn/15.21.1/data/en_US/champion/Aatrox.json
+
+map - list
+
+match - generate
+
+team - generate
+
+champion_summoner - generate
+
+team_composition - generate
