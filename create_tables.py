@@ -37,6 +37,7 @@ def create_tables():
         CREATE TABLE summoner(
             id SERIAL PRIMARY KEY,
             nickname VARCHAR(128) NOT NULL,
+            real_name VARCHAR(128) NOT NULL,
             level INTEGER NOT NULL,
             registration_date DATE NOT NULL,
             honor INTEGER NOT NULL
@@ -46,16 +47,16 @@ def create_tables():
         CREATE TABLE spell(
             id SERIAL PRIMARY KEY,
             name VARCHAR(128) NOT NULL,
-            reloading INTEGER NOT NULL,
-            spell_description VARCHAR(256) NOT NULL
+            cooldown FLOAT NOT NULL,
+            description VARCHAR(256) NOT NULL,
+            summonerLevel INTEGER NOT NULL
         );
         """,
         """
         CREATE TABLE rarity(
             id SERIAL PRIMARY KEY,
             name VARCHAR(128) NOT NULL,
-            rarity_description VARCHAR(256) NOT NULL,
-            another_form BOOLEAN DEFAULT FALSE
+            description VARCHAR(512) NOT NULL
         );
         """,
         """
@@ -64,7 +65,10 @@ def create_tables():
             name VARCHAR(128) NOT NULL,
             champion INTEGER NOT NULL,
             rarity_type INTEGER NOT NULL,
-            another_form BOOLEAN DEFAULT FALSE,
+            skin_lore VARCHAR(1024) NOT NULL,
+            cost INTEGER DEFAULT NULL,
+            has_chroma BOOLEAN DEFAULT FALSE,
+            release_date DATE NOT NULL,
             FOREIGN KEY (champion) REFERENCES champion(id),
             FOREIGN KEY (rarity_type) REFERENCES rarity(id)
             ON UPDATE CASCADE ON DELETE CASCADE
@@ -72,9 +76,10 @@ def create_tables():
         """,
         """
         CREATE TABLE ability(
-            id VARCHAR(64) PRIMARY KEY NOT NULL,
+            id SERIAL PRIMARY KEY,
+            key VARCHAR(32) NOT NULL,
             name VARCHAR(128) NOT NULL,
-            ability_description VARCHAR(256) NOT NULL,
+            description VARCHAR(1024) NOT NULL,
             champion INTEGER NOT NULL,
             cost_burn VARCHAR(128) NOT NULL,
             FOREIGN KEY (champion) REFERENCES champion(id)
@@ -85,15 +90,15 @@ def create_tables():
         CREATE TABLE map(
             id SERIAL PRIMARY KEY,
             name VARCHAR(128) NOT NULL,
-            map_description VARCHAR(256) NOT NULL,
-            lanes_count INTEGER NOT NULL
+            notes VARCHAR(256) NOT NULL,
+            lanes_count INTEGER DEFAULT 0
         );
         """,
         """
         CREATE TABLE match(
             id SERIAL PRIMARY KEY,
             map INTEGER NOT NULL,
-            patch DOUBLE PRECISION NOT NULL,
+            patch FLOAT NOT NULL,
             duration INTEGER NOT NULL,
             date DATE NOT NULL,
             FOREIGN KEY (map) REFERENCES map(id) 

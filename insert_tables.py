@@ -3,22 +3,25 @@ from config import load_config
 
 def insert_data(sql, data):
     connection = None
+    crsr = None
     try:
         params = load_config()
         connection = psycopg2.connect(**params)
         crsr = connection.cursor()
 
-        # crsr.execute("SHOW client_encoding;")
-        encoding = crsr.fetchone()[0]
-        # print(f"Current client encoding: {encoding}")
-
-        if encoding != 'UTF8':
-            connection.set_client_encoding('UTF8')
-            print("Forced client encoding to UTF8")
-
-        crsr.executemany(sql, data)
+        # 🔍 ОТЛАДКА: вставляем по одной строке чтобы видеть ошибку
+        for i, row in enumerate(data):
+            try:
+                crsr.execute(sql, row)
+            except Exception as e:
+                print(f"❌ ОШИБКА в строке {i}:")
+                print(f"   Данные: {row}")
+                print(f"   Ошибка: {e}")
+                # Покажем типы данных
+                print(f"   Типы: {[type(x) for x in row]}")
+                raise  # повторно выбрасываем исключение
+        
         connection.commit()
-
         print("[DEBUG] Data inserted successfully!")
         return True
         
