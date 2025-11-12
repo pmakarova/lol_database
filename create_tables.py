@@ -36,7 +36,7 @@ def create_tables():
         """
         CREATE TABLE summoner(
             id SERIAL PRIMARY KEY,
-            nickname VARCHAR(128) NOT NULL,
+            nickname VARCHAR(40) NOT NULL,
             real_name VARCHAR(128) NOT NULL,
             level INTEGER NOT NULL,
             registration_date DATE NOT NULL,
@@ -46,16 +46,16 @@ def create_tables():
         """
         CREATE TABLE spell(
             id SERIAL PRIMARY KEY,
-            name VARCHAR(128) NOT NULL,
+            name VARCHAR(32) NOT NULL,
             cooldown FLOAT NOT NULL,
             description VARCHAR(256) NOT NULL,
-            summonerLevel INTEGER NOT NULL
+            summoner_level INTEGER NOT NULL
         );
         """,
         """
         CREATE TABLE rarity(
             id SERIAL PRIMARY KEY,
-            name VARCHAR(128) NOT NULL,
+            name VARCHAR(16) NOT NULL,
             description VARCHAR(512) NOT NULL
         );
         """,
@@ -89,7 +89,7 @@ def create_tables():
         """
         CREATE TABLE map(
             id SERIAL PRIMARY KEY,
-            name VARCHAR(128) NOT NULL,
+            name VARCHAR(32) NOT NULL,
             notes VARCHAR(256) NOT NULL,
             lanes_count INTEGER DEFAULT 0
         );
@@ -98,7 +98,7 @@ def create_tables():
         CREATE TABLE match(
             id SERIAL PRIMARY KEY,
             map INTEGER NOT NULL,
-            patch FLOAT NOT NULL,
+            patch VARCHAR(8) NOT NULL,
             duration INTEGER NOT NULL,
             date DATE NOT NULL,
             FOREIGN KEY (map) REFERENCES map(id) 
@@ -109,7 +109,7 @@ def create_tables():
         CREATE TABLE team(
             team_id SERIAL PRIMARY KEY,
             match_id INTEGER NOT NULL,
-            team_type BOOLEAN NOT NULL,
+            team_type SMALLINT NOT NULL,
             FOREIGN KEY (match_id) REFERENCES match(id) 
             ON UPDATE CASCADE ON DELETE CASCADE
         );
@@ -130,9 +130,11 @@ def create_tables():
             team_id INTEGER NOT NULL,
             champion_id INTEGER NOT NULL,
             summoner_id INTEGER NOT NULL,
+            skin_id INTEGER NOT NULL,
             spell1_id INTEGER NOT NULL,
             spell2_id INTEGER NOT NULL,
-            PRIMARY KEY (team_id, champion_id, summoner_id),
+            PRIMARY KEY (team_id, champion_id, summoner_id, skin_id, spell1_id, spell2_id),
+            FOREIGN KEY (skin_id) REFERENCES skin(id), 
             FOREIGN KEY (team_id) REFERENCES team(team_id), 
             FOREIGN KEY (champion_id, summoner_id) REFERENCES champion_summoner(champion_id, summoner_id),
             FOREIGN KEY (spell1_id) REFERENCES spell(id),

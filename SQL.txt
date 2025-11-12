@@ -1,0 +1,160 @@
+# Первый запрос
+(новая версия)
+SELECT TC.summoner_id, COUNT(TC.summoner_id) AS count
+FROM team_composition TC
+INNER JOIN team T
+	ON TC.team_id = T.team_id
+INNER JOIN match M
+	ON T.match_id = M.id
+WHERE M.map = 2name AND TC.skin_id = 79 AND champion_id = 6
+GROUP BY TC.summoner_id
+HAVING COUNT(TC.summoner_id) >= 3
+
+(старая версия)
+SELECT team_composition.summoner_id AS summoner, count(summoner_id) count
+FROM team_composition
+WHERE team_composition.team_id IN(
+	SELECT team_id 
+	FROM team
+	WHERE team.match_id IN (
+		SELECT id
+		FROM match
+		WHERE match.map = 1
+	) AND champion_id = 6 AND skin_id = 79
+)
+GROUP BY summoner
+HAVING count(summoner_id) > 3;
+
+# Второй запрос
+(новая версия)
+SELECT COUNT(T.match_id) AS count_308
+FROM team_composition TC
+INNER JOIN team T
+	ON TC.team_id = T.team_id
+WHERE skin_id = 308
+
+(старая версия)
+SELECT count(match_id) AS count_308
+FROM team
+WHERE team_id IN 
+	(SELECT team_id
+	FROM team_composition
+	WHERE skin_id = 308)
+;
+
+# Третий запрос а)
+SELECT spell_id, sum(count)
+FROM(
+	SELECT spell1_id AS spell_id, count(spell1_id) AS count
+	FROM team_composition
+	GROUP BY spell1_id
+	
+	UNION 
+	
+	SELECT spell2_id AS spell_id, count(spell2_id) AS count
+	FROM team_composition
+	GROUP BY spell2_id
+)
+GROUP BY spell_id
+;
+
+# Третий запрос б)
+SELECT spell1_id AS spell_id, count(team_id)
+FROM (
+	SELECT DISTINCT spell1_id, team_id
+	FROM team_composition
+	
+	UNION ALL
+	
+	SELECT DISTINCT spell2_id, team_id
+	FROM team_composition
+)
+GROUP BY spell_id
+
+# Четвертый запрос
+SELECT skin_count, count(summoner_id) AS summoner_count
+FROM (
+	SELECT summoner_id, count(skin_id) AS skin_count
+	FROM team_composition 
+	GROUP BY summoner_id
+)
+GROUP BY skin_count
+;
+
+# Пятый запрос а)
+SELECT summoner_id, COUNT(summoner_id) as summoner_count
+FROM team_composition
+GROUP BY summoner_id
+HAVING COUNT(summoner_id) = (
+	SELECT MAX(summoner_count)
+	FROM (
+		SELECT COUNT(summoner_id) AS summoner_count
+		FROM team_composition TC
+		GROUP BY summoner_id
+	)
+)
+;
+б)
+SELECT summoner_id, COUNT(summoner_id) as summoner_count
+FROM team_composition
+GROUP BY summoner_id
+HAVING COUNT(summoner_id) = (
+	SELECT MIN(summoner_count)
+	FROM (
+		SELECT COUNT(summoner_id) AS summoner_count
+		FROM team_composition TC
+		GROUP BY summoner_id
+	)
+)
+;
+
+# Шестой запрос
+SELECT map.name FROM map
+
+EXCEPT
+
+SELECT M.name
+FROM match MT
+INNER JOIN team T
+	ON MT.id = T.match_id
+INNER JOIN team_composition TC
+	ON T.team_id = TC.team_id
+INNER JOIN map M
+	ON MT.map = M.id
+WHERE skin_id = 922
+GROUP BY M.name
+;
+
+# Седьмой запрос
+SELECT C.name, COUNT(champion_id) AS champion_count
+FROM team_composition TC
+INNER JOIN champion C
+	ON TC.champion_id = C.id
+GROUP BY C.name
+HAVING COUNT(TC.champion_id) >= (
+	SELECT COUNT(*)
+	FROM team_composition TC2
+	INNER JOIN champion C2 
+		ON TC2.champion_id = C2.id
+	WHERE C2.name = 'Diana'
+)
+ORDER BY champion_count 
+
+# Восьмой запрос
+SELECT M.name AS map_name, R.name AS rarity_name,
+	COUNT(DISTINCT MT.id) AS match_count
+FROM map M
+INNER JOIN match MT 
+	ON MT.map = M.id
+INNER JOIN team T
+	ON T.match_id = MT.id
+INNER JOIN team_composition TC
+	ON TC.team_id = T.team_id
+	
+INNER JOIN skin S 
+	ON S.id = TC.skin_id
+INNER JOIN rarity R 
+	ON R.id = s.rarity_type
+
+GROUP BY M.name, R.name
+ORDER BY M.name, R.name;
